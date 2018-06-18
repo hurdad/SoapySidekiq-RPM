@@ -2,9 +2,9 @@ Name:           SoapySidekiq
 Version:	%{VERSION}
 Release:        1%{?dist}
 Summary:        SoapySDR Sidekiq Support Module
-License:        MIT
+License:        Apache 2.0
 Group:          Development/Libraries/C and C++
-Url:            https://github.com/pothosware/SoapyRTLSDR
+Url:            https://github.com/hurdad/SoapySidekiq
 Source:         %{name}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildRequires:  cmake3

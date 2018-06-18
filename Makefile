@@ -1,5 +1,5 @@
 # SoapySidekiq
-version = 0.1.0
+version = 0.2.0
 name = SoapySidekiq
 full_name = $(name)-$(version)
 download_url = "https://github.com/hurdad/$(name)/archive/$(version).tar.gz"
