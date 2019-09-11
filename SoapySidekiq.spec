@@ -32,7 +32,7 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(-,root,root,-)
 %doc LICENSE README.md
-%{_libdir}/SoapySDR/modules0.6/libSidekiqSupport.so
+%{_libdir}/SoapySDR/modules0.*/libSidekiqSupport.so
 
 %changelog
 
